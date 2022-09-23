@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "975765147494",
+    "firebase_url": "https://m-food-1a98b.firebaseio.com",
+    "project_id": "m-food-1a98b",
+    "storage_bucket": "m-food-1a98b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975765147494:android:254eee50e5b407887c02a7",
+        "android_client_info": {
+          "package_name": "saputro.mahfud.m_food"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975765147494-0naf9o1tq4fpn46uok7lmgmdjbfc5sj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "saputro.mahfud.m_food",
+            "certificate_hash": "a0c49b7c9b4c7dbffe22165f64c35186ccc69723"
+          }
+        },
+        {
+          "client_id": "975765147494-rsv6uebl2tl3c6q240nhpsref4kf6irt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkCkYtbBSLB1-roo1Vi61xltFu2VvbNlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975765147494-rsv6uebl2tl3c6q240nhpsref4kf6irt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
